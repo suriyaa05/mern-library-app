@@ -1,0 +1,16 @@
+My Library — A MERN Stack Book Management App
+
+This is a full-stack project I built to get hands-on experience with the MERN stack. It’s a personal library tracker where you can add, update, delete, and manage the read/unread status of books.
+Tech Stack
+MongoDB – Stores all the book data
+Express.js – Handles backend routes and API logic
+React (with Vite)– For the frontend UI (super fast and clean)
+Node.js – Server-side logic and connection to MongoDB
+Tailwind CSS – Used for styling the frontend (kept it modern and aesthetic)
+react-hot-toast– For nice little notifications when you add/edit/delete a book
+Core Features:
+* Add a new book (with title, author, and rating)
+* Edit book details 
+* Delete books
+* Toggle between Read and Unread
+* Real-time search by title or author
